@@ -1,5 +1,7 @@
 # PanPhon
 
+Forked version with adjustments in ipa_all.csv
+
 ## Citing PanPhon
 
 If you use PanPhon in research, please cite the [following paper](https://www.aclweb.org/anthology/C/C16/C16-1328.pdf):
